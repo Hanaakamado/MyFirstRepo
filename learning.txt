@@ -1,1 +1,1 @@
-I’ve learned how to use Git and GitHub to manage my code, work with branches, and collaborate through pull requests.
+I’ve learned how to use Git and GitHub to manage my codes, work with branches, and collaborate through pull requests.
